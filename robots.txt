@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-wrt7ej.gemini2app.com/sitemap.xml
